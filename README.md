@@ -1,5 +1,5 @@
 #  About Me:
-I’m a second year student at MSIT Delhi with knowledge of both front-end and back-end development. I have experience building dynamic web applications and am currently exploring databases to enhance my full-stack development skills. Always looking for new challenges and opportunities to collaborate on interesting projects! 🚀
+I’m a second year student at MSIT Delhi pursuing computer and science and engineering, with knowledge of both front-end and back-end development. I have experience building dynamic web applications and am currently exploring databases to enhance my full-stack development skills. Always looking for new challenges and opportunities to collaborate on interesting projects! 🚀
 
 
 ## 🌐 Socials:
