@@ -17,6 +17,6 @@ I’m a second year student at MSIT Delhi with knowledge of both front-end and b
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SakshamTalwar12&icon=0&color=0)](https://visitcount.itsvg.in)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
