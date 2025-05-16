@@ -1,5 +1,5 @@
 # About Me:
-I’m a second-year student at MSIT Delhi pursuing Computer Science and Engineering with knowledge of both Front-end and Back-end development. I have experience building dynamic web applications. Always looking for new challenges and opportunities to collaborate on interesting projects! 🚀
+I’m a second-year student at MSIT Delhi pursuing Computer Science and Engineering with knowledge of Full-Stack Development. I have experience building dynamic web applications. Always looking for new challenges and opportunities to collaborate on interesting projects! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-talwar-29388a328/) 
