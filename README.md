@@ -1,5 +1,5 @@
 # About Me:
-I’m a second-year student at MSIT Delhi pursuing **Computer Science and Engineering** with knowledge of **Full-Stack Development, AI/ML, Hugging Face, Transformers, Python, SFT (Supervised Fine-Tuning), LLMs**, and more. Always looking for new challenges and opportunities to collaborate on interesting projects! 🚀
+I’m a second-year student at MSIT Delhi pursuing **Computer Science and Engineering** with knowledge of **Full-Stack Development, AI/ML, Hugging Face, Transformers, Python, SFT (Supervised Fine-Tuning), LLMs, Jupyter**, and more. Always looking for new challenges and opportunities to collaborate on interesting projects! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-talwar-29388a328/) 
@@ -14,8 +14,8 @@ I’m a second-year student at MSIT Delhi pursuing **Computer Science and Engine
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFB000?style=plastic&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=plastic&logo=huggingface&logoColor=black)
-![SFT](https://img.shields.io/badge/SFT%20(Supervised%20Fine--Tuning)-purple?style=plastic&logo=mlflow&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-Large%20Language%20Models-blue?style=plastic&logo=openai&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=plastic&logo=jupyter&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
